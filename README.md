@@ -1,1 +1,1 @@
-In deze repository vind je vega lite code die wordt gebruikt om visuals in Power BI mee te maken. Hiervoor wordt Deneb gebruikt die je kunt downloaden in de Power BI store.
+In this repo you'll find vega lite code for use in Deneb visuals in Power BI. All the code is copied from external sources like the website of Kerry Kolosko or created by Copilot, Chat GPT or other LLM's. The code needs to be adjusted to the specific semantic model. 
